@@ -1,0 +1,3 @@
+[submodule "DevOpsDependencies"]
+	path = DevOpsDependencies
+	url = https://github.com/miroaccgh/DevOpsDependencies.git
