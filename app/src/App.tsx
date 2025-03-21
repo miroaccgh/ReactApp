@@ -2,8 +2,8 @@ import './App.css'
 
 function App() {
   return (
-    <><
-      div>MIRO, NOBODIES LITTLE BITCH, DID SOMETH</div>
+    <>
+      <div>MIRO, NOBODIES LITTLE BITCH, DID SOMETH</div>
     </>
   )
 }
